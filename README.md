@@ -1,2 +1,2 @@
 # agent-lab
-Project Based Agent Practice
+Project based Agent Practice
